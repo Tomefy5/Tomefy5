@@ -4,4 +4,3 @@
 - 👯 I’m looking to collaborate on many projetcs to see all the methodoly in the world
 - 🤔 I’m looking for help with all IT jobs and notions 
 - 📫 How to reach me: tomefyandrytsiresy@gmail.com
--->
