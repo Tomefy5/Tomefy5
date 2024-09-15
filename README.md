@@ -1,3 +1,6 @@
+
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)<!-- If you want the template for my gif, email me! -->
+
 👋 Hi, I'm Tomefy, a passionate junior developer!
 
 - 🌱 Currently studying computer science at MIT Madagascar, with a keen interest in all IT subjects.
