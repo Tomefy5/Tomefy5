@@ -34,22 +34,3 @@ Let's innovate and grow together!
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
 </p>
-
-## Languages and Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
