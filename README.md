@@ -1,5 +1,5 @@
 
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/tomefy5/tomefy5/master/profile.gif)<!-- If you want the template for my gif, email me! -->
 
 👋 Hi, I'm Tomefy, a passionate junior developer!
 
