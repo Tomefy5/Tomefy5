@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/tom-github.jpeg" alt="Tom logo" width="600" />
+</p>
+
+
 👋 Hi, I'm Tomefy, a passionate junior developer!
 
 - 🌱 Currently studying computer science at MIT Madagascar, with a keen interest in all IT subjects.
