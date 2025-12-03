@@ -1,212 +1,153 @@
+<!-- HEADER -->
 <p align="center">
-  <img src="images/tom-github.jpeg" alt="Tomefy - Full Stack Developer" width="600" />
+  <img src="images/tom-github.jpeg" alt="Tomefy - Full Stack Developer" width="520" />
 </p>
 
 <div align="center">
 
-# **Tomefy** 👨‍💻  
-### *Full-Stack Developer | Blockchain Architect | AI & Data Engineer*
+  <!-- TITLE -->
+  <h1>Hi, I'm <b>Tomefy</b> 👨‍💻</h1>
+  <h3>Full-Stack Engineer · Blockchain Architect · AI & Data Engineer</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomefyandrytsiresy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomefy-ny-soa-andry-tsiresy-9a111a322)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![GitHub Followers](https://img.shields.io/github/followers/Tomefy5?style=social)](https://github.com/Tomefy5)
-[![GitHub Stars](https://img.shields.io/github/stars/Tomefy5?style=social)](https://github.com/Tomefy5?tab=repositories)
+  <!-- QUICK LINKS -->
+  <p>
+    <a href="mailto:tomefyandrytsiresy@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/tomefy-ny-soa-andry-tsiresy-9a111a322">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://yourportfolio.com">
+      <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=firefox&logoColor=white" />
+    </a>
+  </p>
+
+  <!-- META -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Tomefy5&style=flat-square&color=0ea5e9" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/Tomefy5?style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Tomefy5?style=social" alt="Stars" />
+  </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧭 About
 
-I'm a **versatile engineer** from Madagascar, committed to building intelligent, scalable, and decentralized solutions.  
-Currently studying computer science at **MIT Madagascar**, I combine strong theoretical foundations with hands-on experience in **full-stack development, blockchain architecture, and AI/ML engineering**.
+I'm a **full-stack + blockchain + AI engineer** from Madagascar, focused on shipping **production‑ready systems** rather than demos.  
+Currently studying computer science at **MIT Madagascar**, I work at the intersection of **distributed systems, data platforms and applied AI**.
 
-**What drives me:**
-- 🔗 **Blockchain & Web3** — Designing decentralized ecosystems with Hedera, Ethereum, Sui and smart contracts
-- 🤖 **Intelligent Systems** — Building ML-powered applications and LLM-based agents
-- 📊 **Data Engineering** — Turning raw data into reliable, production-grade insights
-- 🌐 **Full-Stack Architecture** — Shipping end-to-end, secure, and performant products
-- ⚙️ **Automation & DevOps** — Automating infra, CI/CD, and scalable deployments
-- 🌱 **Continuous Innovation** — Exploring emerging technologies and pushing them to production
+- I design **end‑to‑end architectures**: from UX and APIs to infra and observability  
+- I build **decentralized systems** (Hedera, Ethereum, Sui) with a strong focus on security and scalability  
+- I apply **machine learning & LLMs** to real products: recommender systems, RAG, agents and analytics
 
 ---
 
-## 💼 Tech Stack & Expertise
-
-### Frontend & Web
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="vuejs"/>
-</p>
-
-### Backend & APIs
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=api&logoColor=white" alt="restapi"/>
-</p>
-
-### Databases & Data
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
-</p>
-
-### AI, Machine Learning & Data Science
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikitlearn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="keras"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
-</p>
-
-### Data Visualization & Analytics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
-  <img src="https://img.shields.io-badge/Power%20BI-F2CC8F?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
-</p>
-
-### Blockchain & Web3
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hedera-000000?style=for-the-badge&logo=hedera&logoColor=white" alt="hedera"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum"/>
-  <img src="https://img.shields.io/badge/Sui-6FBCF0?style=for-the-badge&logo=sui&logoColor=white" alt="sui"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3"/>
-  <img src="https://img.shields.io/badge/Ethers.js-4E529A?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethersjs"/>
-  <img src="https://img.shields.io/badge/Hardhat-FFF04B?style=for-the-badge&logo=hardhat&logoColor=black" alt="hardhat"/>
-  <img src="https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white" alt="truffle"/>
-</p>
-
-### DevOps, Cloud & Infrastructure
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="aws"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-FF6B6B?style=for-the-badge&logo=github-actions&logoColor=white" alt="cicd"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
-</p>
-
-### Developer Tools & Ecosystem
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn"/>
-</p>
-
----
-
-## 📚 Learning Path & Expertise Areas
-
-### Full-Stack Development
-
-- ✅ Frontend: React, Next.js, Vue.js, responsive design, accessibility
-- ✅ Backend: Node.js, Express, FastAPI, Django, RESTful APIs, GraphQL
-- ✅ Databases: SQL (PostgreSQL, MySQL), NoSQL (MongoDB), caching (Redis)
-- ✅ Architecture: Microservices, serverless, JAMstack, event-driven systems
-- ✅ Testing: Unit, integration, E2E, TDD
-
-### Blockchain & Web3
-
-- ✅ Smart Contracts: Solidity, design patterns, gas optimization, security
-- ✅ Protocols: Hedera Hashgraph, Ethereum, Sui, consensus mechanisms
-- ✅ dApps: Frontend integration, wallet connections, transaction flows
-- ✅ DeFi: Lending protocols, DEXs, tokenomics, liquidity pools
-- ✅ NFTs & Tokens: ERC-20, ERC-721, custom standards
-
-### AI, ML & Data Science
-
-- ✅ ML Foundations: Supervised/unsupervised learning, regression, classification
-- ✅ Deep Learning: CNNs, RNNs, transformers (TensorFlow, PyTorch)
-- ✅ NLP: Text processing, LLMs, RAG systems, prompt engineering
-- ✅ Computer Vision: Image classification, detection, segmentation
-- ✅ ML Engineering: MLOps, model deployment, monitoring, MLflow
-
-### Data Engineering & Analytics
-
-- ✅ Data Processing: Pandas, NumPy, ETL pipelines, data cleaning
-- ✅ Statistics: Descriptive stats, hypothesis testing, A/B testing
-- ✅ Visualization: Matplotlib, Plotly, Tableau, Power BI
-- ✅ Big Data: Apache Spark, distributed processing
-- ✅ Data Modeling: Query optimization, indexing, schema design
-
-### DevOps & Infrastructure
-
-- ✅ Containerization: Docker, Docker Compose, image optimization
-- ✅ Orchestration: Kubernetes, autoscaling, service mesh
-- ✅ Cloud: AWS, GCP, Azure, serverless architectures
-- ✅ CI/CD: GitHub Actions, Jenkins, automated tests & deployments
-- ✅ Observability: Logging, metrics, error tracking, performance monitoring
-
----
-
-## 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Tomefy5/Antoka">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomefy5&repo=Antoka&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Tomefy5/Tsiry-Mivoatra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomefy5&repo=Tsiry-Mivoatra&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Tomefy5/Azov">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomefy5&repo=Azov&theme=radical&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
+## 🛠️ Core Tech Stack
 
 <div align="center">
 
-<!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Tomefy5&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=percentile" height="150" alt="stats graph" />
+**Core Languages & Runtime**  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Tomefy5&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+**Frontend**  
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-34495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwind-css&logoColor=38BDF8" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomefy5&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=10&theme=radical&hide_border=true" height="150" alt="languages graph" />
+**Backend & APIs**  
+<img src="https://img.shields.io/badge/Node.js-026E00?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-111827?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-05998B?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-0C4B33?style=flat&logo=django&logoColor=white" />
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomefy5&theme=radical&hide_border=true&area=true" alt="activity graph" />
+**Databases & Data**  
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-0F3D2E?style=flat&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Redis-8A0303?style=flat&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-022C22?style=flat&logo=supabase&logoColor=3ECF8E" />
+
+**AI / ML**  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=flat&logo=python&logoColor=white" />
+
+**Blockchain**  
+<img src="https://img.shields.io/badge/Hedera-000000?style=flat&logo=hedera&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-2C2C2C?style=flat&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Sui-0EA5E9?style=flat&logo=sui&logoColor=white" />
+
+**DevOps & Infra**  
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=flat&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-111827?style=flat&logo=linux&logoColor=FCC624" />
+
+</div>
+
+---
+
+## 🚩 Focus Areas
+
+- **Full‑Stack Systems** – Next.js · REST/GraphQL APIs · microservices · event‑driven design  
+- **Blockchain / Web3** – Hedera HCS · smart contracts (Solidity) · dApps · tokenomics  
+- **AI & Data** – recommender systems, LLM‑powered apps, analytics pipelines, MLOps  
+- **DevOps** – Docker, CI/CD (GitHub Actions), observability, performance & cost optimization  
+
+---
+
+## 🔍 Selected Projects
+
+<div align="center">
+
+<a href="https://github.com/Tomefy5/Antoka">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomefy5&repo=Antoka&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/Tomefy5/Tsiry-Mivoatra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomefy5&repo=Tsiry-Mivoatra&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/Tomefy5/Azov">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomefy5&repo=Azov&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📈 GitHub Metrics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Tomefy5&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=percentile"
+  height="150"
+  alt="GitHub stats"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=Tomefy5&theme=radical&hide_border=true&mode=weekly"
+  height="150"
+  alt="GitHub streak"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomefy5&layout=compact&langs_count=8&theme=radical&hide_border=true"
+  height="150"
+  alt="Top languages"
+/>
+
+<br />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Tomefy5&theme=radical&hide_border=true&area=true"
+  alt="Activity graph"
+/>
 
 </div>
 
@@ -216,46 +157,27 @@ Currently studying computer science at **MIT Madagascar**, I combine strong theo
 
 <div align="center">
   
-![Tomefy's github activity snake](https://github.com/Tomefy5/Tomefy5/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://github.com/Tomefy5/Tomefy5/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Currently Exploring
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tomefy5&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6" alt="trophies" />
-</p>
-
----
-
-## 🎯 Currently Mastering
-
-- 🔄 **Advanced Hedera HCS** — Scalable consensus-driven architectures
-- 🤖 **LLMs & Generative AI** — Fine-tuning, RAG, AI agents, tooling integration
-- 📊 **Data Economics** — ML for decentralized data marketplaces
-- 🎮 **Game & 3D** — Three.js, Babylon.js, physics engines, interactive dApps
-- ☁️ **Cloud Architecture** — Kubernetes clusters, serverless patterns, cost optimization
-- 🔐 **Security Engineering** — Smart contract audits, OWASP, cryptography
+- Advanced **Hedera HCS** architectures & data‑driven dApps  
+- **LLM‑native systems**: agents, RAG pipelines, tool‑calling in real products  
+- **Data economics** & decentralized data marketplaces  
+- 3D / interactive experiences with **Three.js / Babylon.js**  
+- Security: **smart contract auditing**, cryptography, OWASP practices  
 
 ---
 
-## 💬 Let's Connect & Collaborate
+## 🤝 Let’s Build Something
 
-I'm enthusiastic about collaborating on projects that push boundaries — from **next‑gen dApps** and **AI‑native products** to **high‑impact data platforms**.  
-If you’re building something ambitious, let’s talk.
-
-<p align="center">
-  <a href="mailto:tomefyandrytsiresy@gmail.com">📧 tomefyandrytsiresy@gmail.com</a>
-</p>
+I’m interested in collaborations around **real‑world, production‑grade systems**:  
+AI‑first products, Web3 infrastructure, data platforms, and complex full‑stack apps.
 
 <p align="center">
-  <i>Building intelligent, decentralized, and scalable solutions for the future. 🚀</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tomefy5&style=flat-square&color=blue" alt="Profile views" />
+  <a href="mailto:tomefyandrytsiresy@gmail.com">tomefyandrytsiresy@gmail.com</a>
 </p>
