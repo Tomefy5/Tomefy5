@@ -2,16 +2,16 @@
   <img src="images/tom-github.jpeg" alt="Tomefy - Full Stack Developer" width="600" />
 </p>
 
----
-
 <div align="center">
 
-## **Tomefy** 👨‍💻
+# **Tomefy** 👨‍💻  
 ### *Full-Stack Developer | Blockchain Architect | AI & Data Engineer*
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomefyandrytsiresy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomefy-ny-soa-andry-tsiresy-9a111a322)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![GitHub Followers](https://img.shields.io/github/followers/Tomefy5?style=social)](https://github.com/Tomefy5)
+[![GitHub Stars](https://img.shields.io/github/stars/Tomefy5?style=social)](https://github.com/Tomefy5?tab=repositories)
 
 </div>
 
@@ -19,21 +19,23 @@
 
 ## 🚀 About Me
 
-I'm a **versatile engineer** from Madagascar committed to building intelligent, scalable, and decentralized solutions. Currently studying computer science at **MIT Madagascar**, I combine theoretical knowledge with hands-on expertise across **full-stack development, blockchain architecture, and AI/ML engineering**.
+I'm a **versatile engineer** from Madagascar, committed to building intelligent, scalable, and decentralized solutions.  
+Currently studying computer science at **MIT Madagascar**, I combine strong theoretical foundations with hands-on experience in **full-stack development, blockchain architecture, and AI/ML engineering**.
 
 **What drives me:**
-- 🔗 **Blockchain & Web3** — Building decentralized ecosystems with Hedera, Sui, and Solidity
-- 💡 **Intelligent Systems** — Implementing ML models and AI-powered applications
-- 📊 **Data Engineering** — Processing, analyzing, and extracting insights from complex datasets
-- 🌐 **Full-Stack Architecture** — Designing scalable, secure, and performant applications
-- 🤖 **Automation & DevOps** — Orchestrating deployments and infrastructure at scale
-- 🌱 **Continuous Innovation** — Mastering emerging technologies and methodologies
+- 🔗 **Blockchain & Web3** — Designing decentralized ecosystems with Hedera, Ethereum, Sui and smart contracts
+- 🤖 **Intelligent Systems** — Building ML-powered applications and LLM-based agents
+- 📊 **Data Engineering** — Turning raw data into reliable, production-grade insights
+- 🌐 **Full-Stack Architecture** — Shipping end-to-end, secure, and performant products
+- ⚙️ **Automation & DevOps** — Automating infra, CI/CD, and scalable deployments
+- 🌱 **Continuous Innovation** — Exploring emerging technologies and pushing them to production
 
 ---
 
 ## 💼 Tech Stack & Expertise
 
-### **Frontend & Web**
+### Frontend & Web
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
@@ -45,7 +47,8 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="vuejs"/>
 </p>
 
-### **Backend & APIs**
+### Backend & APIs
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
@@ -56,7 +59,8 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=api&logoColor=white" alt="restapi"/>
 </p>
 
-### **Databases & Data**
+### Databases & Data
+
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
@@ -66,7 +70,8 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
 </p>
 
-### **AI & Machine Learning**
+### AI, Machine Learning & Data Science
+
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
@@ -78,16 +83,18 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
 </p>
 
-### **Data Science & Visualization**
+### Data Visualization & Analytics
+
 <p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2CC8F?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
+  <img src="https://img.shields.io-badge/Power%20BI-F2CC8F?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
   <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
 </p>
 
-### **Blockchain & Web3**
+### Blockchain & Web3
+
 <p align="center">
   <img src="https://img.shields.io/badge/Hedera-000000?style=for-the-badge&logo=hedera&logoColor=white" alt="hedera"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity"/>
@@ -99,7 +106,8 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
   <img src="https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white" alt="truffle"/>
 </p>
 
-### **DevOps, Cloud & Infrastructure**
+### DevOps, Cloud & Infrastructure
+
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
@@ -110,7 +118,8 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
 </p>
 
-### **Developer Tools & Version Control**
+### Developer Tools & Ecosystem
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
@@ -125,69 +134,117 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
 
 ## 📚 Learning Path & Expertise Areas
 
-### **Full-Stack Development**
+### Full-Stack Development
+
 - ✅ Frontend: React, Next.js, Vue.js, responsive design, accessibility
 - ✅ Backend: Node.js, Express, FastAPI, Django, RESTful APIs, GraphQL
 - ✅ Databases: SQL (PostgreSQL, MySQL), NoSQL (MongoDB), caching (Redis)
 - ✅ Architecture: Microservices, serverless, JAMstack, event-driven systems
-- ✅ Testing: Unit testing, integration testing, end-to-end testing, TDD
+- ✅ Testing: Unit, integration, E2E, TDD
 
-### **Blockchain & Web3**
-- ✅ Smart Contracts: Solidity, contract design, security auditing
+### Blockchain & Web3
+
+- ✅ Smart Contracts: Solidity, design patterns, gas optimization, security
 - ✅ Protocols: Hedera Hashgraph, Ethereum, Sui, consensus mechanisms
-- ✅ dApp Development: Frontend integration, wallet connections, transaction handling
+- ✅ dApps: Frontend integration, wallet connections, transaction flows
 - ✅ DeFi: Lending protocols, DEXs, tokenomics, liquidity pools
-- ✅ NFTs & Tokens: ERC-20, ERC-721, custom token standards
+- ✅ NFTs & Tokens: ERC-20, ERC-721, custom standards
 
-### **AI & Machine Learning**
+### AI, ML & Data Science
+
 - ✅ ML Foundations: Supervised/unsupervised learning, regression, classification
-- ✅ Deep Learning: Neural networks, CNNs, RNNs, transformers (TensorFlow, PyTorch)
-- ✅ NLP: Text processing, sentiment analysis, language models, LLMs
-- ✅ Computer Vision: Image classification, object detection, segmentation
-- ✅ ML Engineering: Model training, hyperparameter tuning, deployment, MLflow
+- ✅ Deep Learning: CNNs, RNNs, transformers (TensorFlow, PyTorch)
+- ✅ NLP: Text processing, LLMs, RAG systems, prompt engineering
+- ✅ Computer Vision: Image classification, detection, segmentation
+- ✅ ML Engineering: MLOps, model deployment, monitoring, MLflow
 
-### **Data Science & Analytics**
-- ✅ Data Processing: Pandas, NumPy, data cleaning, ETL pipelines
-- ✅ Statistical Analysis: Descriptive stats, hypothesis testing, A/B testing
-- ✅ Data Visualization: Matplotlib, Plotly, Tableau, Power BI
-- ✅ Big Data: Apache Spark, Hadoop, distributed computing
-- ✅ Databases: Query optimization, indexing, data modeling
+### Data Engineering & Analytics
 
-### **DevOps & Infrastructure**
+- ✅ Data Processing: Pandas, NumPy, ETL pipelines, data cleaning
+- ✅ Statistics: Descriptive stats, hypothesis testing, A/B testing
+- ✅ Visualization: Matplotlib, Plotly, Tableau, Power BI
+- ✅ Big Data: Apache Spark, distributed processing
+- ✅ Data Modeling: Query optimization, indexing, schema design
+
+### DevOps & Infrastructure
+
 - ✅ Containerization: Docker, Docker Compose, image optimization
-- ✅ Orchestration: Kubernetes, service mesh, auto-scaling
-- ✅ Cloud Platforms: AWS (EC2, S3, Lambda), GCP, Azure
-- ✅ CI/CD: GitHub Actions, Jenkins, automated testing & deployment
-- ✅ Monitoring: Logging, error tracking, performance monitoring, observability
+- ✅ Orchestration: Kubernetes, autoscaling, service mesh
+- ✅ Cloud: AWS, GCP, Azure, serverless architectures
+- ✅ CI/CD: GitHub Actions, Jenkins, automated tests & deployments
+- ✅ Observability: Logging, metrics, error tracking, performance monitoring
+
+---
+
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Tomefy5/Antoka">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomefy5&repo=Antoka&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Tomefy5/Tsiry-Mivoatra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomefy5&repo=Tsiry-Mivoatra&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Tomefy5/Azov">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomefy5&repo=Azov&theme=radical&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tomefy5&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Tomefy5&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomefy5&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=12&theme=radical&hide_border=true" height="250" alt="languages graph" />
+
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Tomefy5&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=percentile" height="150" alt="stats graph" />
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=Tomefy5&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomefy5&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=10&theme=radical&hide_border=true" height="150" alt="languages graph" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomefy5&theme=radical&hide_border=true&area=true" alt="activity graph" />
+
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Tomefy's github activity snake](https://github.com/Tomefy5/Tomefy5/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tomefy5&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6" alt="trophies" />
+</p>
 
 ---
 
 ## 🎯 Currently Mastering
 
-- 🔄 **Advanced Hedera HCS** — Building scalable consensus-driven applications
-- 🤖 **LLM & Generative AI** — Fine-tuning models, RAG systems, AI agents
-- 📊 **Data Economics** — Machine learning for decentralized data markets
-- 🎮 **Game Development** — Three.js, Babylon.js, physics engines
+- 🔄 **Advanced Hedera HCS** — Scalable consensus-driven architectures
+- 🤖 **LLMs & Generative AI** — Fine-tuning, RAG, AI agents, tooling integration
+- 📊 **Data Economics** — ML for decentralized data marketplaces
+- 🎮 **Game & 3D** — Three.js, Babylon.js, physics engines, interactive dApps
 - ☁️ **Cloud Architecture** — Kubernetes clusters, serverless patterns, cost optimization
 - 🔐 **Security Engineering** — Smart contract audits, OWASP, cryptography
 
 ---
 
-## 💬 Let's Connect & Collaborate!
+## 💬 Let's Connect & Collaborate
 
-I'm enthusiastic about collaborating on projects that push boundaries—whether building **next-gen dApps**, training **cutting-edge ML models**, or architecting **scalable systems**. Let's innovate together!
+I'm enthusiastic about collaborating on projects that push boundaries — from **next‑gen dApps** and **AI‑native products** to **high‑impact data platforms**.  
+If you’re building something ambitious, let’s talk.
 
 <p align="center">
   <a href="mailto:tomefyandrytsiresy@gmail.com">📧 tomefyandrytsiresy@gmail.com</a>
