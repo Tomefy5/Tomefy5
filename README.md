@@ -148,53 +148,14 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
 
 ---
 
-## 📚 Learning Path & Expertise Areas
-
-### **Full-Stack Development**
-- ✅ Frontend: React, Next.js, Vue.js, responsive design, accessibility
-- ✅ Backend: Node.js, Express, FastAPI, Django, RESTful APIs, GraphQL
-- ✅ Databases: SQL (PostgreSQL, MySQL), NoSQL (MongoDB), caching (Redis)
-- ✅ Architecture: Microservices, serverless, JAMstack, event-driven systems
-- ✅ Testing: Unit testing, integration testing, end-to-end testing, TDD
-
-### **Blockchain & Web3**
-- ✅ Smart Contracts: Solidity, contract design, security auditing
-- ✅ Protocols: Hedera Hashgraph, Ethereum, Sui, consensus mechanisms
-- ✅ dApp Development: Frontend integration, wallet connections, transaction handling
-- ✅ DeFi: Lending protocols, DEXs, tokenomics, liquidity pools
-- ✅ NFTs & Tokens: ERC-20, ERC-721, custom token standards
-
-### **AI & Machine Learning**
-- ✅ ML Foundations: Supervised/unsupervised learning, regression, classification
-- ✅ Deep Learning: Neural networks, CNNs, RNNs, transformers (TensorFlow, PyTorch)
-- ✅ NLP: Text processing, sentiment analysis, language models, LLMs
-- ✅ Computer Vision: Image classification, object detection, segmentation
-- ✅ ML Engineering: Model training, hyperparameter tuning, deployment, MLflow
-
-### **Data Science & Analytics**
-- ✅ Data Processing: Pandas, NumPy, data cleaning, ETL pipelines
-- ✅ Statistical Analysis: Descriptive stats, hypothesis testing, A/B testing
-- ✅ Data Visualization: Matplotlib, Plotly, Tableau, Power BI
-- ✅ Big Data: Apache Spark, Hadoop, distributed computing
-- ✅ Databases: Query optimization, indexing, data modeling
-
-### **DevOps & Infrastructure**
-- ✅ Containerization: Docker, Docker Compose, image optimization
-- ✅ Orchestration: Kubernetes, service mesh, auto-scaling
-- ✅ Cloud Platforms: AWS (EC2, S3, Lambda), GCP, Azure
-- ✅ CI/CD: GitHub Actions, Jenkins, automated testing & deployment
-- ✅ Monitoring: Logging, error tracking, performance monitoring, observability
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tomefy5&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tomefy5&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph" />
   <br>
   <img src="https://streak-stats.demolab.com?user=Tomefy5&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomefy5&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=12&theme=radical&hide_border=true" height="250" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Tomefy5&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=12&theme=radical&hide_border=true" height="250" alt="languages graph" />
 </div>
 
 ---
