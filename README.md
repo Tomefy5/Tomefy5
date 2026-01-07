@@ -9,9 +9,34 @@
 ## **Tomefy** 👨‍💻
 ### *Full-Stack Developer | Blockchain Architect | AI & Data Engineer*
 
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+### **Professional & Social Networks**
+
+| Platform | Link | Focus |
+|----------|------|-------|
+| 📧 **Email** | [tomefyandrytsiresy@gmail.com](mailto:tomefyandrytsiresy@gmail.com) | Direct contact |
+| 💼 **LinkedIn** | [/in/tomefy-ny-soa-andry-tsiresy](https://www.linkedin.com/in/tomefy-ny-soa-andry-tsiresy-9a111a322/) | Professional profile & opportunities |
+| 🌐 **Portfolio** | [tomefy-ten.vercel.app](https://tomefy-ten.vercel.app/en) | Projects & work showcase |
+| 𝕏 **X (Twitter)** | [@Tomefy5](https://x.com/Tomefy5) | Tech insights & updates |
+| 📝 **Dev.to** | [@tomefy5](https://dev.to/tomefy5) | Technical articles & tutorials |
+| ✍️ **Medium** | [@tomefyandrytsiresy](https://medium.com/@tomefyandrytsiresy) | In-depth technical writing |
+| 🤖 **Reddit** | [u/SpareTight2845](https://www.reddit.com/user/SpareTight2845/) | Community discussions |
+
+### **Quick Links**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomefyandrytsiresy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomefy-ny-soa-andry-tsiresy-9a111a322)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://tomefy-ten.vercel.app/en)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Tomefy5)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tomefy5)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tomefyandrytsiresy)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SpareTight2845/)
 
 </div>
 
@@ -19,7 +44,7 @@
 
 ## 🚀 About Me
 
-I'm a **versatile engineer** from Madagascar committed to building intelligent, scalable, and decentralized solutions. Currently studying computer science at **MIT Madagascar**, I combine theoretical knowledge with hands-on expertise across **full-stack development, blockchain architecture, and AI/ML engineering**.
+I'm a **versatile engineer** from Madagascar committed to building intelligent, scalable, and decentralized solutions. Currently studying computer science, I combine theoretical knowledge with hands-on expertise across **full-stack development, blockchain architecture, and AI/ML engineering**.
 
 **What drives me:**
 - 🔗 **Blockchain & Web3** — Building decentralized ecosystems with Hedera, Sui, and Solidity
@@ -187,4 +212,15 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
 
 ## 💬 Let's Connect & Collaborate!
 
-I'm enthusiastic about collaborating on projects that
+I'm enthusiastic about collaborating on projects that drive innovation. Whether you're interested in building decentralized applications, implementing cutting-edge AI solutions, or architecting scalable systems, let's work together!
+
+📬 **Reach out through any of my social channels** — I'm always open to discussions, opportunities, and new ideas!
+
+---
+
+<div align="center">
+
+### **Made with ❤️ by Tomefy**
+*Building the future, one line of code at a time.*
+
+</div>
