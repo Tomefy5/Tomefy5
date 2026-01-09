@@ -190,12 +190,39 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tomefy5&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph" />
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Tomefy5&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" 
+    height="150" 
+    alt="GitHub stats" 
+  />
   <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Tomefy5&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Tomefy5&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+    height="150" 
+    alt="GitHub streak" 
+  />
   <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Tomefy5&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=12&theme=radical&hide_border=true" height="250" alt="languages graph" />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomefy5&hide_title=true&layout=compact&card_width=420&langs_count=12&theme=radical&hide_border=true" 
+    height="250" 
+    alt="Top languages" 
+  />
+  <br>
+
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Tomefy5&theme=radical&hide_border=true&area=true" 
+    alt="GitHub activity graph" 
+  />
+
 </div>
+
 
 ---
 
