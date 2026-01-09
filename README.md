@@ -186,61 +186,25 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
 - ✅ Monitoring: Logging, error tracking, performance monitoring, observability
 
 ---
-
-## 📊 GitHub Statistics
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-  <!-- 🎯 Stats principales (thème tokyonight + icônes GitHub) -->
+  <!-- Stats principales -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Tomefy5&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&text_bold=true" 
-    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=Tomefy5&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true" 
+    height="160" 
     alt="GitHub stats" 
   />
-  <br>
-
-  <!-- 🔥 Streak (thème tokyonight) -->
+  
+  <!-- Top languages -->
   <img 
-    src="https://streak-stats.demolab.com?user=Tomefy5&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=BF91F3&fire=FB923C" 
-    height="180" 
-    alt="GitHub streak" 
-  />
-  <br>
-
-  <!-- 🥧 Top languages (layout donut + thème tokyonight) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomefy5&hide_title=true&layout=donut&card_width=420&langs_count=8&theme=tokyonight&hide_border=true" 
-    height="280" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomefy5&hide_title=true&layout=compact&langs_count=8&theme=github_dark&hide_border=true" 
+    height="160" 
     alt="Top languages" 
-  />
-  <br>
-
-  <!-- 📈 Activity graph (30 derniers jours) -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Tomefy5&theme=tokyonight&hide_border=true&area=true&line=BF91F3&point=FB923C" 
-    alt="GitHub activity graph" 
-  />
-  <br>
-
-  <!-- 🎴 Profile summary cards (détails supplémentaires) -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomefy5&theme=tokyonight" 
-    alt="Profile details" 
-  />
-  <br>
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tomefy5&theme=tokyonight" 
-    alt="Repos per language" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tomefy5&theme=tokyonight" 
-    alt="Most commit language" 
   />
 
 </div>
-
 
 ---
 
