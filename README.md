@@ -204,6 +204,12 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
     alt="Top languages" 
   />
 
+  <!-- GitHub Trophies (remplace le streak) -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Tomefy5&theme=github_dark&column=3&margin-w=15&margin-h=15&no-frame=true" 
+    alt="GitHub Trophies" 
+  />
+
 </div>
 
 ---
