@@ -204,11 +204,71 @@ I'm a **versatile engineer** from Madagascar committed to building intelligent, 
     alt="Top languages" 
   />
 
-  <!-- GitHub Trophies (remplace le streak) -->
+</div>
+
+---
+
+### 🎯 **Profile Summary Cards**
+
+<div align="center">
+
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Tomefy5&theme=github_dark&column=3&margin-w=15&margin-h=15&no-frame=true" 
-    alt="GitHub Trophies" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tomefy5&theme=github_dark" 
+    alt="Repos per language" 
   />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tomefy5&theme=github_dark" 
+    alt="Most commit language" 
+  />
+
+</div>
+
+---
+
+### 📈 **Contribution Activity Graph**
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Tomefy5&theme=github-dark&hide_border=true&area=true" 
+    alt="GitHub activity graph" 
+  />
+
+</div>
+
+---
+
+### ⏱️ **WakaTime Stats**
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Tomefy5&theme=github_dark&layout=compact&hide_border=true" 
+    alt="WakaTime stats" 
+  />
+
+</div>
+
+---
+
+### 📊 **Quick Stats Badges**
+
+<div align="center">
+
+  [![Commits](https://img.shields.io/github/commit-activity/m/Tomefy5/Tomefy5?label=Monthly%20Commits&logo=github&style=for-the-badge&color=0D1117&labelColor=30363D)](https://github.com/Tomefy5)
+  [![Stars](https://img.shields.io/github/stars/Tomefy5?label=Total%20Stars&logo=github&style=for-the-badge&color=0D1117&labelColor=30363D)](https://github.com/Tomefy5)
+  [![Followers](https://img.shields.io/github/followers/Tomefy5?label=Followers&logo=github&style=for-the-badge&color=0D1117&labelColor=30363D)](https://github.com/Tomefy5)
+
+</div>
+
+---
+
+### 🏆 **GitHub Trophies**
+
+<div align="center">
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Tomefy5&theme=github_dark&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
